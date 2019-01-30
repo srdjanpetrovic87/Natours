@@ -17,7 +17,8 @@ Project designed just for the course
 * How to set project-wide font definitions
 * Create semi-transparent linear gradient on top of background image
 * How to clip parts of elements using *clip-path* - (useful resource: [clippy](https://bennettfeely.com/clippy/))
+* Center anything with the transform, top and left properties
 
 ## Authors
 
-* **Jonas Schmedtmann** - [GitHub](https://github.com/jonasschmedtmann)
+* **[Jonas Schmedtmann](https://github.com/jonasschmedtmann)**
