@@ -7,8 +7,8 @@ Project designed just for the course
 * CSS3
 * SASS
 * NPM
-* Responsive Designe
-* Animations
+* Responsive Design
+* CSS Animations
 * Background Video
 
 ## Detailed features
