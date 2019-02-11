@@ -18,6 +18,7 @@ Project designed just for the course
 * Create semi-transparent linear gradient on top of background image
 * How to clip parts of elements using *clip-path* - (useful resource: [clippy](https://bennettfeely.com/clippy/))
 * Center anything with the transform, top and left properties
+* How and why to use the ::after pseudo-element
 
 ## Authors
 
