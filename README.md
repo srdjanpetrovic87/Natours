@@ -20,6 +20,8 @@ Project designed just for the course
 * Center anything with the transform, top and left properties
 * How and why to use the ::after pseudo-element
 * How and why to use *rem* units
+* How and why to use *component-driven design* and create *cler*, *modular*, *reusable*, *maintainable* and *scalable* code
+* How and why to use *BEM* metodology
 
 ## Authors
 
