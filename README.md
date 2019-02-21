@@ -19,6 +19,7 @@ Project designed just for the course
 * How to clip parts of elements using *clip-path* - (useful resource: [clippy](https://bennettfeely.com/clippy/))
 * Center anything with the transform, top and left properties
 * How and why to use the ::after pseudo-element
+* How and why to use *rem* units
 
 ## Authors
 
