@@ -24,6 +24,7 @@ Project designed just for the course
 * How and why to use *BEM* metodology
 * NPM and SCSS
 * How and why to use *variables*, *nesting*, *mixins*, *functions*, *extends* in SCSS
+* Implement *7-1 pattern* as CSS Architecture
 
 ## Authors
 
