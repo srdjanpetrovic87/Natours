@@ -25,6 +25,10 @@ Project designed just for the course
 * NPM and SCSS
 * How and why to use *variables*, *nesting*, *mixins*, *functions*, *extends* in SCSS
 * Implement *7-1 pattern* as CSS Architecture
+* How to architect and build a simple grid system
+* How the attribute selector works
+* How the *:not* pseudo-class works
+* How *calc()* works, and what's the difference between *calc()* and simple Sass operations. 
 
 ## Authors
 
