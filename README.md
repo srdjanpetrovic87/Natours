@@ -22,6 +22,8 @@ Project designed just for the course
 * How and why to use *rem* units
 * How and why to use *component-driven design* and create *cler*, *modular*, *reusable*, *maintainable* and *scalable* code
 * How and why to use *BEM* metodology
+* NPM and SCSS
+* How and why to use *variables*, *nesting*, *mixins*, *functions*, *extends* in SCSS
 
 ## Authors
 
