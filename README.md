@@ -28,7 +28,12 @@ Project designed just for the course
 * How to architect and build a simple grid system
 * How the attribute selector works
 * How the *:not* pseudo-class works
-* How *calc()* works, and what's the difference between *calc()* and simple Sass operations. 
+* How *calc()* works, and what's the difference between *calc()* and simple Sass operations.
+* How and why to use utility classes
+* How to use the *background-clip* property
+* How to *transform* multiple properties simultaneously
+* How to use the *outline-offset* property together with *outline*
+* How to style elements that are NOT hovered while others are
 
 ## Authors
 
